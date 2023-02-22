@@ -26,7 +26,13 @@ const About = () => {
             <p> Nossa primeira e principal Hamburgueria se colocaliza no centro do Rio de janeiro </p>
           </div>
           <div className="about">
-            <p>Nossa meta é para os proximos anos ter uma loja em cada canto do brazil, para que todos os brazileiros venham desfrutar de nosso grande e saboroso restaurante 100% vegano , com pratos exclusivos que não se encontra em nenhum outro canto , ums exemplos são , a Mini carolina , aboborinha recheada e muitos outro , como um bom restaurante vegano prezamos pela saude de nossos clientes sempre com atenção e cuidado com todos os ingredientes , todos são muito bem manuziados e manipulados por proficionas muito bem qualificados e remunerandos com desempenho alticimo na area ao qual trabalham  </p>
+            <p>Nossa meta é para os proximos anos é ter nossa franquia em outros paises além do brasil, estamos trabalhando arduamente para concluir nossos objetivos.  </p>
+          </div>
+          <div className="about">
+            <h2>Nosso lema é 
+            <p>Venha saborear os melhores hambúrgueres da sua cidade!😜 <br /> Em um preço que cabe no seu bolso.. 🤑 </p> 
+            </h2>
+            
           </div>
         </div>
       </div>
