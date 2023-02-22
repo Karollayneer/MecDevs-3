@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "src": "./imagenes/products/bebibdarefrescantetangerina.jpg",
+    "name": "Dev Junior",
+    "description": "1 carne hamburguer, 1 queijo, bacon, cebola e alface, tomate.",
+    "portion": "P",
+    "price": 10
+  },
+  {
+    "id": 2,
+    "src": "./imagenes/products/bebidadegengibreefrutas.jpg",
+    "name": "Dev senior",
+    "description": "2 carne de hamburguer, 2 queijo, bacan, cebola e alface, tomate e picles.",
+    "portion": "M",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "src": "./imagenes/products/minicarolinadecanela.webp",
+    "name": "Dev Pleno",
+    "description": "3 carne de hamburguer, triplo queijo, picles e alface",
+    "portion": "G",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "src": "./imagenes/products/tortadenozes.webp",
+    "name": "Milk-Devs",
+    "description": "Sabor Chocolate, Morango, baunilha.",
+    "portion": "500ml",
+    "price": 15
+  },
+  {
+    "id": 5,
+    "src": "./imagenes/products/legumesassado.jpg",
+    "name": "Suco natural",
+    "description": "Sabor kiwi com limao, Morango, Laranja.",
+    "portion": "500ml",
+    "price": 12
+  },
+  {
+    "id": 6,
+    "src": "./imagenes/products/abobrinharechada.jpg",
+    "name": "Batata com cheddar",
+    "description": "Batata frita com cheddar.",
+    "portion": "Porção para 1 pessoa",
+    "price": 20
+  },
+  {
+    "id": 7,
+    "src": "./imagenes/products/batatarecheada.webp",
+    "name": "Batata Frita com cheddar e calabresa",
+    "description": "Batata frita com cheddar e calabresa.",
+    "portion": "Porção para 2 pessoas",
+    "price": 26
+  },
+  {
+    "id": 8,
+    "src": "./imagenes/products/churrascovegan.webp",
+    "name": "Combo Junior",
+    "description": "1 batata media, 1 refrigerante e hamburguer c/1 carne hamburguer, 1 queijo, alface, tomate.",
+    "portion": "Porção para 1 pessoa",
+    "price": 30
+  },
+  {
+    "id": 9,
+    "src": "./imagenes/products/sopadelegumes.png",
+    "name": "Combo Senior",
+    "description": "1 batata Grande, 1 refrigerante Grande e hamburguer c/1 carne hamburguer, 1 queijo, bacon, alface e cebola, tomate.",
+    "portion": "Porção para 1 pessoa",
+    "price": 45
+  },
+  {
+    "id": 10,
+    "src": "./imagenes/products/graodebicopepinoebolinhodelentilha.jpg",
+    "name": "Combo Pleno",
+    "description": "1 porção de anel de cebola, 1 Copo de Cerveja Grande e hamburguer c/1 carne hamburguer, 1 queijo, alface e cebola.",
+    "portion": "Porção para 1 pessoa",
+    "price": 50
+  },
+  {
+    "id": 11,
+    "src": "./imagenes/products/strogonoffvegano.webp",
+    "name": "Dev Vegano",
+    "description": "1 porção batata chips, 1 Suco de laranja Grande e hamburguer c/1 carne hamburguer vegana, alface e cebola, cenoura, beterraba.",
+    "portion": "Porção para 1 pessoa",
+    "price": 35
+  }
+]
