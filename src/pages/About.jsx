@@ -29,8 +29,12 @@ const About = () => {
             <p>Nossa meta é para os proximos anos é ter nossa franquia em outros paises além do brasil, estamos trabalhando arduamente para concluir nossos objetivos.  </p>
           </div>
           <div className="about">
-            <h2>Nosso lema é 
-            <p>Venha saborear os melhores hambúrgueres da sua cidade!😜 <br /> Em um preço que cabe no seu bolso.. 🤑 </p> 
+            <h2>Nosso lema é:
+            <p>
+              Amar e bom mas, o hamburguer não te da dor de cabeça. <br />
+              Venha saborear os melhores hambúrgueres da sua cidade!😜 <br />
+             Em um preço que cabe no seu bolso.. 🤑 
+            </p> 
             </h2>
             
           </div>
