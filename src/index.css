@@ -72,9 +72,9 @@ body {
   width: fit-content;
 }
 .button_principal:hover {
-  border-color: #646cff;
-  opacity: 0.8;
-  color: white;
+  border-color: #f8970e;
+  opacity: 1.8;
+  color: #f8970e;
 }
 .del_button {
   cursor: pointer;

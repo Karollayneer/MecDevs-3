@@ -14,16 +14,14 @@ const About = () => {
         </div>
         <div className="about1">
           <div className="about2">
-            <p> MecDevs, somos a <b>Hamburgueria</b>  
-            onde  cada produtos <br />são selecionados especialmente para 
-            você, com todo <br /> carinho e dedicão de nossos colaboradores  </p>
+            <h2>MecDevs, a Hamburgueria onde cada um dos nossos produtos <br />são selecionados cuidadosamente com todo  carinho <br />e dedicação de nossos colaboradores  </h2> 
           </div>
           <div className="about">
-            <p>Temos varias redes de Hmaburgueria espalhada por todo o territorio nacional <br />
-            assim você podera compra de todo lugar, só escolher uma de nossa <br /> hamburgueria mais proxima de sua casa. </p>
+            <p>Temos algumas redes de Hmaburgueria espalhada pelo territorio nacional  <br />
+           só escolher uma de nossa hamburgueria mais proxima de sua casa.  </p>
           </div>
           <div className="about">
-            <p> Nossa primeira e principal Hamburgueria se colocaliza no centro do Rio de janeiro </p>
+            <h3> Nossa primeira e principal Hamburgueria se colocaliza no centro do Rio de janeiro </h3>
           </div>
           <div className="about">
             <p>Nossa meta é para os proximos anos é ter nossa franquia em outros paises além do brasil, estamos trabalhando arduamente para concluir nossos objetivos.  </p>
