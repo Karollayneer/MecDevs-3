@@ -103,7 +103,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="nome"
               />
             </div>
-            <div className="input-box">
+           {/* <div className="input-box">
               <span className="details">CPF</span>
               <input
                 type="text"
@@ -112,7 +112,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="cpf"
                 pattern="^[0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2}$"
               />
-            </div>
+             </div>
             <div className="input-box">
               <span className="details">Email</span>
               <input
@@ -132,7 +132,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 required
                 name="celular"
               />
-            </div>
+            </div>*/}
             <div className="input-box cep_container">
               <span className="details">CEP</span>
               <div className="cep">
@@ -186,7 +186,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="complemento"
               />
             </div>
-            <div className="input-box">
+          {/*   <div className="input-box">
               <span className="details">Cidade</span>
               <input
                 type="text"
@@ -203,9 +203,9 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 required
                 name="estado"
               />
-            </div>
+          </div>
 
-            <div className="input-box">
+           <div className="input-box">
               <span className="details">Tarjeta de Crédito</span>
               <input
                 type="text"
@@ -224,7 +224,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="confirm_senha"
                 pattern="^[0-9]{3}$"
               />
-            </div>
+            </div>*/}
           </div>
 
           <div className="botones_confirmar">
