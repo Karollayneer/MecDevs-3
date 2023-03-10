@@ -30,3 +30,5 @@ Integrantes
 * MATHEUS SILVA MENDONÇA
 * CAROLINE ALMEIDA BENTES
 
+link para o slider do projeto
+https://www.canva.com/design/DAFalqNR24c/CCTIUQ79-WZi-OO0hC-7Fw/edit?utm_content=DAFalqNR24c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
