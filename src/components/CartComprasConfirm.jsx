@@ -103,6 +103,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="nome"
               />
             </div>
+            
            {/* <div className="input-box">
               <span className="details">CPF</span>
               <input
@@ -133,6 +134,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="celular"
               />
             </div>*/}
+
             <div className="input-box cep_container">
               <span className="details">CEP</span>
               <div className="cep">
