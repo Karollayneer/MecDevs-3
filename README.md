@@ -1,7 +1,7 @@
 # Terceiro projeto em grupo - McDevs
 ### O objetivo do projeto é abrigar um website de restaurante que trará informações do cardápioo, além disso, também contendo carrinho onde o cliente poderá adicionar e excluir seu produto.
 
-A webpage pode ser acessada por esse link: https://mc-devs.vercel.app/
+A webpage pode ser acessada por esse link: https://mec-devs-3.vercel.app/
 
 Métodos
 Podem ser utilizados os seguintes métodos na rota /sugestões
