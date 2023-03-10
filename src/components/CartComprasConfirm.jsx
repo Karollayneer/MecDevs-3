@@ -186,7 +186,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
                 name="complemento"
               />
             </div>
-          {/*   <div className="input-box">
+           <div className="input-box">
               <span className="details">Cidade</span>
               <input
                 type="text"
@@ -205,7 +205,7 @@ const CartComprasConfirm = ({ setCompraShow }) => {
               />
           </div>
 
-           <div className="input-box">
+            {/* <div className="input-box">
               <span className="details">Tarjeta de Crédito</span>
               <input
                 type="text"
